@@ -1,4 +1,4 @@
-TTGO LOAR Series
+TTGO LORA Series
 ==============================
 ![](1.png)
 
